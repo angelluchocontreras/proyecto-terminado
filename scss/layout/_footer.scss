@@ -1,0 +1,14 @@
+footer{
+    background-color: rgba(28, 183, 170, 0.634);
+    padding: 4px;
+    color: black;
+    @include flex(center,center,wrap,10px);
+    
+
+    img{
+        width: 70%;
+    }
+    h3{
+        font-size: 30px;
+    }
+}

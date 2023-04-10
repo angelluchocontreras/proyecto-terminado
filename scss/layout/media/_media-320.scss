@@ -1,0 +1,33 @@
+@media (max-width:320px){
+
+// index--------------------------------
+main{
+    section{
+        div{
+            h1{
+                margin-left: 0;
+                text-align: left;
+            }
+            p{
+                margin-left: 0;
+                text-align: left;
+            }
+        }
+    }
+}
+// ayudanos pagina 2----------------------------
+main{
+    .ayudanos2{
+        img{
+            display: none;
+
+        }
+    }
+    .ayudanos3{
+        img{
+            width: 100%;
+            margin-top: 60px;
+            margin-left: -50px;
+        }
+    }
+}}

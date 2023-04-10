@@ -1,0 +1,30 @@
+@media  (max-width:596px){
+// quienes somos pagina 1-----------------------
+
+main{
+.nosotros1{
+    margin-left: -140px;
+}
+}
+.nosotros2{
+    h1{
+        font-size: 1px;
+    }
+
+}
+// ayudanos capitulo 2------------------------------
+// donanos capitulo 3-------------------------------
+main{
+    .donanos1 { grid-area: 1 / 1 / 2 / 3; }
+    .donanos2 { grid-area: 2 / 1 / 3 / 3; }
+    .donanos3 { grid-area: 3 / 1 / 4 / 3; }
+    .donanos1{
+        img{
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+            border-radius: 30px;
+        }
+    }
+
+}
+}
